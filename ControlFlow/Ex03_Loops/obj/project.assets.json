@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex03_Loops\\Ex03_Loops.csproj",
-      "projectName": "Ex03_Loops",
-      "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex03_Loops\\Ex03_Loops.csproj",
+      "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex03_Loops\\03_MultiplicationTable.csproj",
+      "projectName": "03_MultiplicationTable",
+      "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex03_Loops\\03_MultiplicationTable.csproj",
       "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
       "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex03_Loops\\obj\\",
       "projectStyle": "PackageReference",

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj",
-      "projectName": "01_HelloWorld.cs",
-      "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj",
+      "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\01_HelloWorld.csproj",
+      "projectName": "01_HelloWorld",
+      "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\01_HelloWorld.csproj",
       "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
       "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\obj\\",
       "projectStyle": "PackageReference",

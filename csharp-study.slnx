@@ -7,9 +7,9 @@
     <Project Path="Basics/08_SecondsToTime/08_SecondsToTime.csproj" />
     <Project Path="Basics/09_PriceDiscount/09_PriceDiscount.csproj" />
     <Project Path="Basics/10_SimpleInterest/10_SimpleInterest.csproj" />
-    <Project Path="Basics/Ex01_HelloWorld/01_HelloWorld.cs.csproj" />
-    <Project Path="Basics/Ex02_Variables/02_SimpleCalculator.cs.csproj" />
-    <Project Path="Basics/Ex03_DataTypes/03_AverageGrade.cs.csproj" />
+    <Project Path="Basics/Ex01_HelloWorld/01_HelloWorld.csproj" />
+    <Project Path="Basics/Ex02_Variables/02_SimpleCalculator.csproj" />
+    <Project Path="Basics/Ex03_DataTypes/03_AverageGrade.csproj" />
   </Folder>
   <Folder Name="/Collections/">
     <Project Path="Collections/Ex01_Lists/Ex01_Lists.csproj" />
@@ -17,9 +17,16 @@
     <Project Path="Collections/Ex03_Dictionaries/Ex03_Dictionaries.csproj" />
   </Folder>
   <Folder Name="/ControlFlow/">
-    <Project Path="ControlFlow/Ex01_IfElse/Ex01_IfElse.csproj" />
-    <Project Path="ControlFlow/Ex02_Switch/Ex02_Switch.csproj" />
-    <Project Path="ControlFlow/Ex03_Loops/Ex03_Loops.csproj" />
+    <Project Path="ControlFlow/04_LargestOfThree/04_LargestOfThree.csproj" />
+    <Project Path="ControlFlow/05_GradeCategory/05_GradeCategory.csproj" />
+    <Project Path="ControlFlow/06_LoginSystem/06_LoginSystem.csproj" />
+    <Project Path="ControlFlow/07_Factorial/07_Factorial.csproj" />
+    <Project Path="ControlFlow/08_PrimeNumber/08_PrimeNumber.csproj" />
+    <Project Path="ControlFlow/09_Countdown/09_Countdown.csproj" />
+    <Project Path="ControlFlow/10_NumberGuessing/10_NumberGuessing.csproj" />
+    <Project Path="ControlFlow/Ex01_IfElse/01_OddOrEven.csproj" />
+    <Project Path="ControlFlow/Ex02_Switch/02_VotingEligibility.csproj" />
+    <Project Path="ControlFlow/Ex03_Loops/03_MultiplicationTable.csproj" />
   </Folder>
   <Folder Name="/Platforms/" />
   <Folder Name="/Platforms/Beecrowd/">

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8DB7367-CDE2-5759-F9C6-2F55359BAEF0}|Basics\\Ex02_Variables\\02_SimpleCalculator.csproj|d:\\arquivos e programas\\repos\\csharp-study\\basics\\ex02_variables\\02_simplecalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8DB7367-CDE2-5759-F9C6-2F55359BAEF0}|Basics\\Ex02_Variables\\02_SimpleCalculator.csproj|solutionrelative:basics\\ex02_variables\\02_simplecalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4441F4CE-FB3A-DB22-19FE-443B8619213D}|Basics\\10_SimpleInterest\\10_SimpleInterest.csproj|d:\\arquivos e programas\\repos\\csharp-study\\basics\\10_simpleinterest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4441F4CE-FB3A-DB22-19FE-443B8619213D}|Basics\\10_SimpleInterest\\10_SimpleInterest.csproj|solutionrelative:basics\\10_simpleinterest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,24 +39,24 @@
       "RelativeMoniker": "D:0:0:{45BA0865-FF31-201A-5AFA-8C87D52D13A7}|Basics\\04_TempConverter\\04_TempConverter.csproj|solutionrelative:basics\\04_tempconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AD5B805-EB4D-DDC7-E8EB-7C7497165CC1}|Basics\\Ex03_DataTypes\\03_AverageGrade.cs.csproj|d:\\arquivos e programas\\repos\\csharp-study\\basics\\ex03_datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AD5B805-EB4D-DDC7-E8EB-7C7497165CC1}|Basics\\Ex03_DataTypes\\03_AverageGrade.cs.csproj|solutionrelative:basics\\ex03_datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA3AA8E6-A978-2BC5-B9A1-886275A11FB7}|ControlFlow\\Ex01_IfElse\\01_OddOrEven.csproj|d:\\arquivos e programas\\repos\\csharp-study\\controlflow\\ex01_ifelse\\01_oddoreven.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA3AA8E6-A978-2BC5-B9A1-886275A11FB7}|ControlFlow\\Ex01_IfElse\\01_OddOrEven.csproj|solutionrelative:controlflow\\ex01_ifelse\\01_oddoreven.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8B61D76-D89B-5B0D-B2E9-1BB7495CC6EB}|Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj|d:\\arquivos e programas\\repos\\csharp-study\\basics\\ex02_variables\\02_simplecalculator.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D8B61D76-D89B-5B0D-B2E9-1BB7495CC6EB}|Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj|solutionrelative:basics\\ex02_variables\\02_simplecalculator.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3E698CD2-8C57-43E8-E318-1DBD3A606028}|Basics\\Ex03_DataTypes\\03_AverageGrade.csproj|d:\\arquivos e programas\\repos\\csharp-study\\basics\\ex03_datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E698CD2-8C57-43E8-E318-1DBD3A606028}|Basics\\Ex03_DataTypes\\03_AverageGrade.csproj|solutionrelative:basics\\ex03_datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8B61D76-D89B-5B0D-B2E9-1BB7495CC6EB}|Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj|d:\\arquivos e programas\\repos\\csharp-study\\basics\\ex02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8B61D76-D89B-5B0D-B2E9-1BB7495CC6EB}|Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj|solutionrelative:basics\\ex02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B4E4739-1CF9-49F9-BEE1-119755011013}|Basics\\Ex01_HelloWorld\\01_HelloWorld.csproj|d:\\arquivos e programas\\repos\\csharp-study\\basics\\ex01_helloworld\\01_helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B4E4739-1CF9-49F9-BEE1-119755011013}|Basics\\Ex01_HelloWorld\\01_HelloWorld.csproj|solutionrelative:basics\\ex01_helloworld\\01_helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{555DCF52-FFDE-7914-1724-BBA8EC4731AE}|Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj|d:\\arquivos e programas\\repos\\csharp-study\\basics\\ex01_helloworld\\01_helloworld.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{555DCF52-FFDE-7914-1724-BBA8EC4731AE}|Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj|solutionrelative:basics\\ex01_helloworld\\01_helloworld.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F8DB7367-CDE2-5759-F9C6-2F55359BAEF0}|Basics\\Ex02_Variables\\02_SimpleCalculator.csproj|d:\\arquivos e programas\\repos\\csharp-study\\basics\\ex02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DB7367-CDE2-5759-F9C6-2F55359BAEF0}|Basics\\Ex02_Variables\\02_SimpleCalculator.csproj|solutionrelative:basics\\ex02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{555DCF52-FFDE-7914-1724-BBA8EC4731AE}|Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj|d:\\arquivos e programas\\repos\\csharp-study\\basics\\ex01_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{555DCF52-FFDE-7914-1724-BBA8EC4731AE}|Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj|solutionrelative:basics\\ex01_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B4E4739-1CF9-49F9-BEE1-119755011013}|Basics\\Ex01_HelloWorld\\01_HelloWorld.csproj|d:\\arquivos e programas\\repos\\csharp-study\\basics\\ex01_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4E4739-1CF9-49F9-BEE1-119755011013}|Basics\\Ex01_HelloWorld\\01_HelloWorld.csproj|solutionrelative:basics\\ex01_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,24 +66,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\10_SimpleInterest\\Program.cs",
-              "RelativeDocumentMoniker": "Basics\\10_SimpleInterest\\Program.cs",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\10_SimpleInterest\\Program.cs*",
-              "RelativeToolTip": "Basics\\10_SimpleInterest\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T19:27:53.46Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "01_OddOrEven.csproj",
+              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex01_IfElse\\01_OddOrEven.csproj",
+              "RelativeDocumentMoniker": "ControlFlow\\Ex01_IfElse\\01_OddOrEven.csproj",
+              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex01_IfElse\\01_OddOrEven.csproj",
+              "RelativeToolTip": "ControlFlow\\Ex01_IfElse\\01_OddOrEven.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-06T19:44:55.479Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\10_SimpleInterest\\Program.cs",
+              "RelativeDocumentMoniker": "Basics\\10_SimpleInterest\\Program.cs",
+              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\10_SimpleInterest\\Program.cs",
+              "RelativeToolTip": "Basics\\10_SimpleInterest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T19:27:53.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\09_PriceDiscount\\Program.cs",
               "RelativeDocumentMoniker": "Basics\\09_PriceDiscount\\Program.cs",
@@ -87,12 +102,11 @@
               "RelativeToolTip": "Basics\\09_PriceDiscount\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T19:12:50.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T19:12:50.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\08_SecondsToTime\\Program.cs",
               "RelativeDocumentMoniker": "Basics\\08_SecondsToTime\\Program.cs",
@@ -100,12 +114,11 @@
               "RelativeToolTip": "Basics\\08_SecondsToTime\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T19:04:26.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T19:04:26.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\07_VariableSwap\\Program.cs",
               "RelativeDocumentMoniker": "Basics\\07_VariableSwap\\Program.cs",
@@ -113,12 +126,11 @@
               "RelativeToolTip": "Basics\\07_VariableSwap\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T18:59:17.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T18:59:17.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\06_CurrencyConverter\\Program.cs",
               "RelativeDocumentMoniker": "Basics\\06_CurrencyConverter\\Program.cs",
@@ -126,12 +138,11 @@
               "RelativeToolTip": "Basics\\06_CurrencyConverter\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T18:50:23.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T18:50:23.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\05_CircleArea\\Program.cs",
               "RelativeDocumentMoniker": "Basics\\05_CircleArea\\Program.cs",
@@ -139,36 +150,11 @@
               "RelativeToolTip": "Basics\\05_CircleArea\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T18:39:07.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T18:39:07.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "05_CircleArea.csproj",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\05_CircleArea\\05_CircleArea.csproj",
-              "RelativeDocumentMoniker": "Basics\\05_CircleArea\\05_CircleArea.csproj",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\05_CircleArea\\05_CircleArea.csproj",
-              "RelativeToolTip": "Basics\\05_CircleArea\\05_CircleArea.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-06T18:39:05.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\04_TempConverter\\Program.cs",
-              "RelativeDocumentMoniker": "Basics\\04_TempConverter\\Program.cs",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\04_TempConverter\\Program.cs",
-              "RelativeToolTip": "Basics\\04_TempConverter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T18:17:38.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex03_DataTypes\\Program.cs",
               "RelativeDocumentMoniker": "Basics\\Ex03_DataTypes\\Program.cs",
@@ -180,19 +166,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "02_SimpleCalculator.cs.csproj",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj",
-              "RelativeDocumentMoniker": "Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj",
-              "RelativeToolTip": "Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj",
+              "DocumentIndex": 11,
+              "Title": "01_HelloWorld.csproj",
+              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\01_HelloWorld.csproj",
+              "RelativeDocumentMoniker": "Basics\\Ex01_HelloWorld\\01_HelloWorld.csproj",
+              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\01_HelloWorld.csproj",
+              "RelativeToolTip": "Basics\\Ex01_HelloWorld\\01_HelloWorld.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-06T18:06:03.589Z"
+              "WhenOpened": "2026-04-06T18:02:33.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
+              "Title": "02_SimpleCalculator.csproj",
+              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex02_Variables\\02_SimpleCalculator.csproj",
+              "RelativeDocumentMoniker": "Basics\\Ex02_Variables\\02_SimpleCalculator.csproj",
+              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex02_Variables\\02_SimpleCalculator.csproj",
+              "RelativeToolTip": "Basics\\Ex02_Variables\\02_SimpleCalculator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-06T18:06:03.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\04_TempConverter\\Program.cs",
+              "RelativeDocumentMoniker": "Basics\\04_TempConverter\\Program.cs",
+              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\04_TempConverter\\Program.cs",
+              "RelativeToolTip": "Basics\\04_TempConverter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T18:17:38.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "05_CircleArea.csproj",
+              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\05_CircleArea\\05_CircleArea.csproj",
+              "RelativeDocumentMoniker": "Basics\\05_CircleArea\\05_CircleArea.csproj",
+              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\05_CircleArea\\05_CircleArea.csproj",
+              "RelativeToolTip": "Basics\\05_CircleArea\\05_CircleArea.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-06T18:39:05.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex02_Variables\\Program.cs",
               "RelativeDocumentMoniker": "Basics\\Ex02_Variables\\Program.cs",
@@ -204,19 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "01_HelloWorld.cs.csproj",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj",
-              "RelativeDocumentMoniker": "Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj",
-              "RelativeToolTip": "Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-06T18:02:33.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\Program.cs",
               "RelativeDocumentMoniker": "Basics\\Ex01_HelloWorld\\Program.cs",
