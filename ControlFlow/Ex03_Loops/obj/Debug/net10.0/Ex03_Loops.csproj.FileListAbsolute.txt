@@ -1,0 +1,14 @@
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\bin\Debug\net10.0\Ex03_Loops.exe
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\bin\Debug\net10.0\Ex03_Loops.deps.json
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\bin\Debug\net10.0\Ex03_Loops.runtimeconfig.json
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\bin\Debug\net10.0\Ex03_Loops.dll
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\bin\Debug\net10.0\Ex03_Loops.pdb
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\obj\Debug\net10.0\Ex03_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\obj\Debug\net10.0\Ex03_Loops.AssemblyInfoInputs.cache
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\obj\Debug\net10.0\Ex03_Loops.AssemblyInfo.cs
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\obj\Debug\net10.0\Ex03_Loops.csproj.CoreCompileInputs.cache
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\obj\Debug\net10.0\Ex03_Loops.dll
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\obj\Debug\net10.0\refint\Ex03_Loops.dll
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\obj\Debug\net10.0\Ex03_Loops.pdb
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\obj\Debug\net10.0\Ex03_Loops.genruntimeconfig.cache
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex03_Loops\obj\Debug\net10.0\ref\Ex03_Loops.dll

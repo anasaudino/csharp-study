@@ -1,0 +1,14 @@
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\bin\Debug\net10.0\Ex01_Lists.exe
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\bin\Debug\net10.0\Ex01_Lists.deps.json
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\bin\Debug\net10.0\Ex01_Lists.runtimeconfig.json
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\bin\Debug\net10.0\Ex01_Lists.dll
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\bin\Debug\net10.0\Ex01_Lists.pdb
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\obj\Debug\net10.0\Ex01_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\obj\Debug\net10.0\Ex01_Lists.AssemblyInfoInputs.cache
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\obj\Debug\net10.0\Ex01_Lists.AssemblyInfo.cs
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\obj\Debug\net10.0\Ex01_Lists.csproj.CoreCompileInputs.cache
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\obj\Debug\net10.0\Ex01_Lists.dll
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\obj\Debug\net10.0\refint\Ex01_Lists.dll
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\obj\Debug\net10.0\Ex01_Lists.pdb
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\obj\Debug\net10.0\Ex01_Lists.genruntimeconfig.cache
+C:\Users\ana.souza\csharp-study\Collections\Ex01_Lists\obj\Debug\net10.0\ref\Ex01_Lists.dll

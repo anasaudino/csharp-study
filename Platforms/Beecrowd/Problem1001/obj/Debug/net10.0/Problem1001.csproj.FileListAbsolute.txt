@@ -1,0 +1,14 @@
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\bin\Debug\net10.0\Problem1001.exe
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\bin\Debug\net10.0\Problem1001.deps.json
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\bin\Debug\net10.0\Problem1001.runtimeconfig.json
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\bin\Debug\net10.0\Problem1001.dll
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\bin\Debug\net10.0\Problem1001.pdb
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\obj\Debug\net10.0\Problem1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\obj\Debug\net10.0\Problem1001.AssemblyInfoInputs.cache
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\obj\Debug\net10.0\Problem1001.AssemblyInfo.cs
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\obj\Debug\net10.0\Problem1001.csproj.CoreCompileInputs.cache
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\obj\Debug\net10.0\Problem1001.dll
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\obj\Debug\net10.0\refint\Problem1001.dll
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\obj\Debug\net10.0\Problem1001.pdb
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\obj\Debug\net10.0\Problem1001.genruntimeconfig.cache
+C:\Users\ana.souza\csharp-study\Platforms\Beecrowd\Problem1001\obj\Debug\net10.0\ref\Problem1001.dll

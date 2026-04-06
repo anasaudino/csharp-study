@@ -1,0 +1,14 @@
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\bin\Debug\net10.0\Ex01_IfElse.exe
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\bin\Debug\net10.0\Ex01_IfElse.deps.json
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\bin\Debug\net10.0\Ex01_IfElse.runtimeconfig.json
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\bin\Debug\net10.0\Ex01_IfElse.dll
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\bin\Debug\net10.0\Ex01_IfElse.pdb
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\obj\Debug\net10.0\Ex01_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\obj\Debug\net10.0\Ex01_IfElse.AssemblyInfoInputs.cache
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\obj\Debug\net10.0\Ex01_IfElse.AssemblyInfo.cs
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\obj\Debug\net10.0\Ex01_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\obj\Debug\net10.0\Ex01_IfElse.dll
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\obj\Debug\net10.0\refint\Ex01_IfElse.dll
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\obj\Debug\net10.0\Ex01_IfElse.pdb
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\obj\Debug\net10.0\Ex01_IfElse.genruntimeconfig.cache
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex01_IfElse\obj\Debug\net10.0\ref\Ex01_IfElse.dll

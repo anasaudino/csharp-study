@@ -1,0 +1,14 @@
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\bin\Debug\net10.0\Ex03_DataTypes.exe
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\bin\Debug\net10.0\Ex03_DataTypes.deps.json
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\bin\Debug\net10.0\Ex03_DataTypes.runtimeconfig.json
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\bin\Debug\net10.0\Ex03_DataTypes.dll
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\bin\Debug\net10.0\Ex03_DataTypes.pdb
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\obj\Debug\net10.0\Ex03_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\obj\Debug\net10.0\Ex03_DataTypes.AssemblyInfoInputs.cache
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\obj\Debug\net10.0\Ex03_DataTypes.AssemblyInfo.cs
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\obj\Debug\net10.0\Ex03_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\obj\Debug\net10.0\Ex03_DataTypes.dll
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\obj\Debug\net10.0\refint\Ex03_DataTypes.dll
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\obj\Debug\net10.0\Ex03_DataTypes.pdb
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\obj\Debug\net10.0\Ex03_DataTypes.genruntimeconfig.cache
+C:\Users\ana.souza\csharp-study\Basics\Ex03_DataTypes\obj\Debug\net10.0\ref\Ex03_DataTypes.dll

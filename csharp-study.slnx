@@ -1,0 +1,25 @@
+<Solution>
+  <Folder Name="/Basics/">
+    <Project Path="Basics/04_TempConverter/04_TempConverter.csproj" />
+    <Project Path="Basics/05_CircleArea/05_CircleArea.csproj" />
+    <Project Path="Basics/Ex01_HelloWorld/01_HelloWorld.cs.csproj" />
+    <Project Path="Basics/Ex02_Variables/02_SimpleCalculator.cs.csproj" />
+    <Project Path="Basics/Ex03_DataTypes/03_AverageGrade.cs.csproj" />
+  </Folder>
+  <Folder Name="/Collections/">
+    <Project Path="Collections/Ex01_Lists/Ex01_Lists.csproj" />
+    <Project Path="Collections/Ex02_Arrays/Ex02_Arrays.csproj" />
+    <Project Path="Collections/Ex03_Dictionaries/Ex03_Dictionaries.csproj" />
+  </Folder>
+  <Folder Name="/ControlFlow/">
+    <Project Path="ControlFlow/Ex01_IfElse/Ex01_IfElse.csproj" />
+    <Project Path="ControlFlow/Ex02_Switch/Ex02_Switch.csproj" />
+    <Project Path="ControlFlow/Ex03_Loops/Ex03_Loops.csproj" />
+  </Folder>
+  <Folder Name="/Platforms/" />
+  <Folder Name="/Platforms/Beecrowd/">
+    <Project Path="Platforms/Beecrowd/Problem1000/Problem1000.csproj" />
+    <Project Path="Platforms/Beecrowd/Problem1001/Problem1001.csproj" />
+    <Project Path="Platforms/Beecrowd/Problem1002/Problem1002.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,14 @@
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\bin\Debug\net10.0\Ex03_Dictionaries.exe
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\bin\Debug\net10.0\Ex03_Dictionaries.deps.json
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\bin\Debug\net10.0\Ex03_Dictionaries.runtimeconfig.json
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\bin\Debug\net10.0\Ex03_Dictionaries.dll
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\bin\Debug\net10.0\Ex03_Dictionaries.pdb
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\obj\Debug\net10.0\Ex03_Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\obj\Debug\net10.0\Ex03_Dictionaries.AssemblyInfoInputs.cache
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\obj\Debug\net10.0\Ex03_Dictionaries.AssemblyInfo.cs
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\obj\Debug\net10.0\Ex03_Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\obj\Debug\net10.0\Ex03_Dictionaries.dll
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\obj\Debug\net10.0\refint\Ex03_Dictionaries.dll
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\obj\Debug\net10.0\Ex03_Dictionaries.pdb
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\obj\Debug\net10.0\Ex03_Dictionaries.genruntimeconfig.cache
+C:\Users\ana.souza\csharp-study\Collections\Ex03_Dictionaries\obj\Debug\net10.0\ref\Ex03_Dictionaries.dll

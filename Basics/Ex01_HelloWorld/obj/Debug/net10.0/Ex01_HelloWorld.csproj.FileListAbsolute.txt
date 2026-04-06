@@ -1,0 +1,14 @@
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\bin\Debug\net10.0\Ex01_HelloWorld.exe
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\bin\Debug\net10.0\Ex01_HelloWorld.deps.json
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\bin\Debug\net10.0\Ex01_HelloWorld.runtimeconfig.json
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\bin\Debug\net10.0\Ex01_HelloWorld.dll
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\bin\Debug\net10.0\Ex01_HelloWorld.pdb
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\obj\Debug\net10.0\Ex01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\obj\Debug\net10.0\Ex01_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\obj\Debug\net10.0\Ex01_HelloWorld.AssemblyInfo.cs
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\obj\Debug\net10.0\Ex01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\obj\Debug\net10.0\Ex01_HelloWorld.dll
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\obj\Debug\net10.0\refint\Ex01_HelloWorld.dll
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\obj\Debug\net10.0\Ex01_HelloWorld.pdb
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\obj\Debug\net10.0\Ex01_HelloWorld.genruntimeconfig.cache
+C:\Users\ana.souza\csharp-study\Basics\Ex01_HelloWorld\obj\Debug\net10.0\ref\Ex01_HelloWorld.dll

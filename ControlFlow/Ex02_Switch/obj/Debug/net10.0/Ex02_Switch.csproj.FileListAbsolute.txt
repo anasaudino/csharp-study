@@ -1,0 +1,14 @@
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\bin\Debug\net10.0\Ex02_Switch.exe
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\bin\Debug\net10.0\Ex02_Switch.deps.json
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\bin\Debug\net10.0\Ex02_Switch.runtimeconfig.json
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\bin\Debug\net10.0\Ex02_Switch.dll
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\bin\Debug\net10.0\Ex02_Switch.pdb
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\obj\Debug\net10.0\Ex02_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\obj\Debug\net10.0\Ex02_Switch.AssemblyInfoInputs.cache
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\obj\Debug\net10.0\Ex02_Switch.AssemblyInfo.cs
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\obj\Debug\net10.0\Ex02_Switch.csproj.CoreCompileInputs.cache
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\obj\Debug\net10.0\Ex02_Switch.dll
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\obj\Debug\net10.0\refint\Ex02_Switch.dll
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\obj\Debug\net10.0\Ex02_Switch.pdb
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\obj\Debug\net10.0\Ex02_Switch.genruntimeconfig.cache
+C:\Users\ana.souza\csharp-study\ControlFlow\Ex02_Switch\obj\Debug\net10.0\ref\Ex02_Switch.dll
