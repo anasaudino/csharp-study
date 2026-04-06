@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex03_Loops\\Ex03_Loops.csproj": {}
+    "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex03_Loops\\Ex03_Loops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex03_Loops\\Ex03_Loops.csproj": {
+    "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex03_Loops\\Ex03_Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex03_Loops\\Ex03_Loops.csproj",
+        "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex03_Loops\\Ex03_Loops.csproj",
         "projectName": "Ex03_Loops",
-        "projectPath": "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex03_Loops\\Ex03_Loops.csproj",
+        "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex03_Loops\\Ex03_Loops.csproj",
         "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex03_Loops\\obj\\",
+        "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex03_Loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",

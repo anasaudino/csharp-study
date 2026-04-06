@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.souza\\csharp-study\\Collections\\Ex02_Arrays\\Ex02_Arrays.csproj": {}
+    "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\Ex02_Arrays\\Ex02_Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.souza\\csharp-study\\Collections\\Ex02_Arrays\\Ex02_Arrays.csproj": {
+    "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\Ex02_Arrays\\Ex02_Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.souza\\csharp-study\\Collections\\Ex02_Arrays\\Ex02_Arrays.csproj",
+        "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\Ex02_Arrays\\Ex02_Arrays.csproj",
         "projectName": "Ex02_Arrays",
-        "projectPath": "C:\\Users\\ana.souza\\csharp-study\\Collections\\Ex02_Arrays\\Ex02_Arrays.csproj",
+        "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\Ex02_Arrays\\Ex02_Arrays.csproj",
         "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.souza\\csharp-study\\Collections\\Ex02_Arrays\\obj\\",
+        "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\Ex02_Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",

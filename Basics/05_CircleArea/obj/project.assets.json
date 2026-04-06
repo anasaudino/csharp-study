@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ana.souza\\csharp-study\\Basics\\05_CircleArea\\05_CircleArea.csproj",
+      "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\05_CircleArea\\05_CircleArea.csproj",
       "projectName": "05_CircleArea",
-      "projectPath": "C:\\Users\\ana.souza\\csharp-study\\Basics\\05_CircleArea\\05_CircleArea.csproj",
+      "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\05_CircleArea\\05_CircleArea.csproj",
       "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ana.souza\\csharp-study\\Basics\\05_CircleArea\\obj\\",
+      "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\05_CircleArea\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",

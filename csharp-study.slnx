@@ -2,6 +2,11 @@
   <Folder Name="/Basics/">
     <Project Path="Basics/04_TempConverter/04_TempConverter.csproj" />
     <Project Path="Basics/05_CircleArea/05_CircleArea.csproj" />
+    <Project Path="Basics/06_CurrencyConverter/06_CurrencyConverter.csproj" />
+    <Project Path="Basics/07_VariableSwap/07_VariableSwap.csproj" />
+    <Project Path="Basics/08_SecondsToTime/08_SecondsToTime.csproj" />
+    <Project Path="Basics/09_PriceDiscount/09_PriceDiscount.csproj" />
+    <Project Path="Basics/10_SimpleInterest/10_SimpleInterest.csproj" />
     <Project Path="Basics/Ex01_HelloWorld/01_HelloWorld.cs.csproj" />
     <Project Path="Basics/Ex02_Variables/02_SimpleCalculator.cs.csproj" />
     <Project Path="Basics/Ex03_DataTypes/03_AverageGrade.cs.csproj" />

@@ -12,3 +12,18 @@ C:\Users\ana.souza\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\refint
 C:\Users\ana.souza\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\04_TempConverter.pdb
 C:\Users\ana.souza\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\04_TempConverter.genruntimeconfig.cache
 C:\Users\ana.souza\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\ref\04_TempConverter.dll
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\bin\Debug\net10.0\04_TempConverter.exe
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\bin\Debug\net10.0\04_TempConverter.deps.json
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\bin\Debug\net10.0\04_TempConverter.runtimeconfig.json
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\bin\Debug\net10.0\04_TempConverter.dll
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\bin\Debug\net10.0\04_TempConverter.pdb
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\04_TempConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\04_TempConverter.AssemblyInfoInputs.cache
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\04_TempConverter.AssemblyInfo.cs
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\04_TempConverter.csproj.CoreCompileInputs.cache
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\04_TempConverter.sourcelink.json
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\04_TempConverter.dll
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\refint\04_TempConverter.dll
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\04_TempConverter.pdb
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\04_TempConverter.genruntimeconfig.cache
+D:\Arquivos e Programas\Repos\csharp-study\Basics\04_TempConverter\obj\Debug\net10.0\ref\04_TempConverter.dll

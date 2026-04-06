@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj": {}
+    "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj": {
+    "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj",
+        "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj",
         "projectName": "02_SimpleCalculator.cs",
-        "projectPath": "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj",
+        "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex02_Variables\\02_SimpleCalculator.cs.csproj",
         "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex02_Variables\\obj\\",
+        "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex02_Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",

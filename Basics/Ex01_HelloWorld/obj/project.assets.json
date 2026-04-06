@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj",
+      "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj",
       "projectName": "01_HelloWorld.cs",
-      "projectPath": "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj",
+      "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\01_HelloWorld.cs.csproj",
       "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex01_HelloWorld\\obj\\",
+      "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex01_HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",

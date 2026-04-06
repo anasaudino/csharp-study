@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex01_IfElse\\Ex01_IfElse.csproj",
+      "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex01_IfElse\\Ex01_IfElse.csproj",
       "projectName": "Ex01_IfElse",
-      "projectPath": "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex01_IfElse\\Ex01_IfElse.csproj",
+      "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex01_IfElse\\Ex01_IfElse.csproj",
       "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex01_IfElse\\obj\\",
+      "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex01_IfElse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",

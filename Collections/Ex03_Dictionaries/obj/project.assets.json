@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ana.souza\\csharp-study\\Collections\\Ex03_Dictionaries\\Ex03_Dictionaries.csproj",
+      "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\Ex03_Dictionaries\\Ex03_Dictionaries.csproj",
       "projectName": "Ex03_Dictionaries",
-      "projectPath": "C:\\Users\\ana.souza\\csharp-study\\Collections\\Ex03_Dictionaries\\Ex03_Dictionaries.csproj",
+      "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\Ex03_Dictionaries\\Ex03_Dictionaries.csproj",
       "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ana.souza\\csharp-study\\Collections\\Ex03_Dictionaries\\obj\\",
+      "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\Ex03_Dictionaries\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",

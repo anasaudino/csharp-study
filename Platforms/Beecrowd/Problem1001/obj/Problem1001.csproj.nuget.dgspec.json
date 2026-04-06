@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.souza\\csharp-study\\Platforms\\Beecrowd\\Problem1001\\Problem1001.csproj": {}
+    "D:\\Arquivos e Programas\\Repos\\csharp-study\\Platforms\\Beecrowd\\Problem1001\\Problem1001.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.souza\\csharp-study\\Platforms\\Beecrowd\\Problem1001\\Problem1001.csproj": {
+    "D:\\Arquivos e Programas\\Repos\\csharp-study\\Platforms\\Beecrowd\\Problem1001\\Problem1001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.souza\\csharp-study\\Platforms\\Beecrowd\\Problem1001\\Problem1001.csproj",
+        "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Platforms\\Beecrowd\\Problem1001\\Problem1001.csproj",
         "projectName": "Problem1001",
-        "projectPath": "C:\\Users\\ana.souza\\csharp-study\\Platforms\\Beecrowd\\Problem1001\\Problem1001.csproj",
+        "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Platforms\\Beecrowd\\Problem1001\\Problem1001.csproj",
         "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.souza\\csharp-study\\Platforms\\Beecrowd\\Problem1001\\obj\\",
+        "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Platforms\\Beecrowd\\Problem1001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",

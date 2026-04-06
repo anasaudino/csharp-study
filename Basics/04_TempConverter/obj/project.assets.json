@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ana.souza\\csharp-study\\Basics\\04_TempConverter\\04_TempConverter.csproj",
+      "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\04_TempConverter\\04_TempConverter.csproj",
       "projectName": "04_TempConverter",
-      "projectPath": "C:\\Users\\ana.souza\\csharp-study\\Basics\\04_TempConverter\\04_TempConverter.csproj",
+      "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\04_TempConverter\\04_TempConverter.csproj",
       "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ana.souza\\csharp-study\\Basics\\04_TempConverter\\obj\\",
+      "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\04_TempConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",

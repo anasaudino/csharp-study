@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex02_Switch\\Ex02_Switch.csproj": {}
+    "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex02_Switch\\Ex02_Switch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex02_Switch\\Ex02_Switch.csproj": {
+    "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex02_Switch\\Ex02_Switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex02_Switch\\Ex02_Switch.csproj",
+        "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex02_Switch\\Ex02_Switch.csproj",
         "projectName": "Ex02_Switch",
-        "projectPath": "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex02_Switch\\Ex02_Switch.csproj",
+        "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex02_Switch\\Ex02_Switch.csproj",
         "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.souza\\csharp-study\\ControlFlow\\Ex02_Switch\\obj\\",
+        "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\Ex02_Switch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex03_DataTypes\\03_AverageGrade.cs.csproj": {}
+    "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex03_DataTypes\\03_AverageGrade.cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex03_DataTypes\\03_AverageGrade.cs.csproj": {
+    "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex03_DataTypes\\03_AverageGrade.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex03_DataTypes\\03_AverageGrade.cs.csproj",
+        "projectUniqueName": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex03_DataTypes\\03_AverageGrade.cs.csproj",
         "projectName": "03_AverageGrade.cs",
-        "projectPath": "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex03_DataTypes\\03_AverageGrade.cs.csproj",
+        "projectPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex03_DataTypes\\03_AverageGrade.cs.csproj",
         "packagesPath": "C:\\Users\\ana.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.souza\\csharp-study\\Basics\\Ex03_DataTypes\\obj\\",
+        "outputPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Basics\\Ex03_DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
