@@ -1,17 +1,12 @@
-// ControlFlow - Ex01: If / Else
-// Tomada de decisão com if, else if, else
+Console.WriteLine("Digite um numero:");
+int numero = int.Parse(Console.ReadLine());
 
-int nota = 75;
+if (numero % 2 == 0)
+{
+    Console.WriteLine("Este numero é PAR!");
+}
 
-if (nota >= 90)
-    Console.WriteLine("Aprovado com excelência");
-else if (nota >= 70)
-    Console.WriteLine("Aprovado");
-else if (nota >= 50)
-    Console.WriteLine("Recuperação");
 else
-    Console.WriteLine("Reprovado");
-
-// Operador ternário
-string resultado = nota >= 70 ? "Passou!" : "Não passou";
-Console.WriteLine(resultado);
+{
+    Console.WriteLine("Este numero é ÍMPAR!");
+}

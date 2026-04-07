@@ -1,18 +1,15 @@
-// ControlFlow - Ex02: Switch
-// switch expression (C# 8+) e switch statement clássico
+Console.WriteLine("Digite sua idade:");
+int idade = int.Parse(Console.ReadLine());
 
-int diaSemana = 3;
-
-// switch expression (moderno)
-string nome = diaSemana switch
+if (idade < 16)
 {
-    1 => "Segunda",
-    2 => "Terça",
-    3 => "Quarta",
-    4 => "Quinta",
-    5 => "Sexta",
-    6 or 7 => "Fim de semana",
-    _ => "Inválido"
-};
-
-Console.WriteLine($"Dia {diaSemana}: {nome}");
+    Console.WriteLine("Você ainda não tem idade para votar.");
+}
+else if ((idade >= 16 && idade < 18) || idade > 70)
+{
+    Console.WriteLine("O seu voto é opcional/facultativo.");
+}
+else
+{
+    Console.WriteLine("O seu voto é obrigatório!");
+}
