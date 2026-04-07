@@ -12,6 +12,16 @@
     <Project Path="Basics/Ex03_DataTypes/03_AverageGrade.csproj" />
   </Folder>
   <Folder Name="/Collections/">
+    <Project Path="Collections/01_IntegerArray/01_IntegerArray.csproj" />
+    <Project Path="Collections/02_NameList/02_NameList.csproj" />
+    <Project Path="Collections/03_FindValue/03_FindValue.csproj" />
+    <Project Path="Collections/04_EvenNumbersList/04_EvenNumbersList.csproj" />
+    <Project Path="Collections/05_Phonebook/05_Phonebook.csproj" />
+    <Project Path="Collections/06_BankQueue/06_BankQueue.csproj" />
+    <Project Path="Collections/07_UndoStack/07_UndoStack.csproj" />
+    <Project Path="Collections/08_MinMaxList/08_MinMaxList.csproj" />
+    <Project Path="Collections/09_UniqueValues/09_UniqueValues.csproj" />
+    <Project Path="Collections/10_AverageList/10_AverageList.csproj" />
     <Project Path="Collections/Ex01_Lists/Ex01_Lists.csproj" />
     <Project Path="Collections/Ex02_Arrays/Ex02_Arrays.csproj" />
     <Project Path="Collections/Ex03_Dictionaries/Ex03_Dictionaries.csproj" />
