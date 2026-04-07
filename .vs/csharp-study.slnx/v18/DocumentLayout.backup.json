@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F956E22B-4737-10C7-A1E4-1483C91CE45B}|ControlFlow\\10_NumberGuessing\\10_NumberGuessing.csproj|d:\\arquivos e programas\\repos\\csharp-study\\controlflow\\10_numberguessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F956E22B-4737-10C7-A1E4-1483C91CE45B}|ControlFlow\\10_NumberGuessing\\10_NumberGuessing.csproj|solutionrelative:controlflow\\10_numberguessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46194E07-E595-7A2E-DAD5-6133CEBAC928}|Collections\\07_UndoStack\\07_UndoStack.csproj|d:\\arquivos e programas\\repos\\csharp-study\\collections\\07_undostack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46194E07-E595-7A2E-DAD5-6133CEBAC928}|Collections\\07_UndoStack\\07_UndoStack.csproj|solutionrelative:collections\\07_undostack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C3502C8-12E2-E9A3-5E0C-22EB2FAA8313}|ControlFlow\\08_PrimeNumber\\08_PrimeNumber.csproj|d:\\arquivos e programas\\repos\\csharp-study\\controlflow\\08_primenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C3502C8-12E2-E9A3-5E0C-22EB2FAA8313}|ControlFlow\\08_PrimeNumber\\08_PrimeNumber.csproj|solutionrelative:controlflow\\08_primenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C67153A5-26E9-1ECA-7D1A-CCCEF51D0C1F}|ControlFlow\\09_Countdown\\09_Countdown.csproj|d:\\arquivos e programas\\repos\\csharp-study\\controlflow\\09_countdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C67153A5-26E9-1ECA-7D1A-CCCEF51D0C1F}|ControlFlow\\09_Countdown\\09_Countdown.csproj|solutionrelative:controlflow\\09_countdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BA1D661-1DD0-6FC2-60C4-A62936083EC3}|ControlFlow\\07_Factorial\\07_Factorial.csproj|d:\\arquivos e programas\\repos\\csharp-study\\controlflow\\07_factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA1D661-1DD0-6FC2-60C4-A62936083EC3}|ControlFlow\\07_Factorial\\07_Factorial.csproj|solutionrelative:controlflow\\07_factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7E5559-26CC-3C3D-6979-B882D76E3679}|ControlFlow\\06_LoginSystem\\06_LoginSystem.csproj|d:\\arquivos e programas\\repos\\csharp-study\\controlflow\\06_loginsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD7E5559-26CC-3C3D-6979-B882D76E3679}|ControlFlow\\06_LoginSystem\\06_LoginSystem.csproj|solutionrelative:controlflow\\06_loginsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AF8B457-27C9-923A-8362-96D3449E6CF5}|Collections\\06_BankQueue\\06_BankQueue.csproj|d:\\arquivos e programas\\repos\\csharp-study\\collections\\06_bankqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF8B457-27C9-923A-8362-96D3449E6CF5}|Collections\\06_BankQueue\\06_BankQueue.csproj|solutionrelative:collections\\06_bankqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,65 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\10_NumberGuessing\\Program.cs",
-              "RelativeDocumentMoniker": "ControlFlow\\10_NumberGuessing\\Program.cs",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\10_NumberGuessing\\Program.cs*",
-              "RelativeToolTip": "ControlFlow\\10_NumberGuessing\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\07_UndoStack\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\07_UndoStack\\Program.cs",
+              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\07_UndoStack\\Program.cs",
+              "RelativeToolTip": "Collections\\07_UndoStack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T12:55:15.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\09_Countdown\\Program.cs",
-              "RelativeDocumentMoniker": "ControlFlow\\09_Countdown\\Program.cs",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\09_Countdown\\Program.cs",
-              "RelativeToolTip": "ControlFlow\\09_Countdown\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T12:53:53.537Z",
+              "WhenOpened": "2026-04-07T17:56:11.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\08_PrimeNumber\\Program.cs",
-              "RelativeDocumentMoniker": "ControlFlow\\08_PrimeNumber\\Program.cs",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\08_PrimeNumber\\Program.cs",
-              "RelativeToolTip": "ControlFlow\\08_PrimeNumber\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\06_BankQueue\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\06_BankQueue\\Program.cs",
+              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\06_BankQueue\\Program.cs",
+              "RelativeToolTip": "Collections\\06_BankQueue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T12:37:00.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\07_Factorial\\Program.cs",
-              "RelativeDocumentMoniker": "ControlFlow\\07_Factorial\\Program.cs",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\07_Factorial\\Program.cs",
-              "RelativeToolTip": "ControlFlow\\07_Factorial\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T12:36:06.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\06_LoginSystem\\Program.cs",
-              "RelativeDocumentMoniker": "ControlFlow\\06_LoginSystem\\Program.cs",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\ControlFlow\\06_LoginSystem\\Program.cs",
-              "RelativeToolTip": "ControlFlow\\06_LoginSystem\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T12:24:08.914Z",
+              "WhenOpened": "2026-04-07T17:53:10.033Z",
               "EditorCaption": ""
             }
           ]
