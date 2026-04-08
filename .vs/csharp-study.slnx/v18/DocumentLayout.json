@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E4F7943-AB1F-58AC-0FD7-431402D75D26}|Collections\\09_UniqueValues\\09_UniqueValues.csproj|d:\\arquivos e programas\\repos\\csharp-study\\collections\\09_uniquevalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4F7943-AB1F-58AC-0FD7-431402D75D26}|Collections\\09_UniqueValues\\09_UniqueValues.csproj|solutionrelative:collections\\09_uniquevalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39C8C79E-D50D-EAC9-180D-9AB3937F81FB}|Collections\\08_MinMaxList\\08_MinMaxList.csproj|d:\\arquivos e programas\\repos\\csharp-study\\collections\\08_minmaxlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39C8C79E-D50D-EAC9-180D-9AB3937F81FB}|Collections\\08_MinMaxList\\08_MinMaxList.csproj|solutionrelative:collections\\08_minmaxlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,18 +32,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\08_MinMaxList\\Program.cs",
-              "RelativeDocumentMoniker": "Collections\\08_MinMaxList\\Program.cs",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\08_MinMaxList\\Program.cs*",
-              "RelativeToolTip": "Collections\\08_MinMaxList\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\09_UniqueValues\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\09_UniqueValues\\Program.cs",
+              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\09_UniqueValues\\Program.cs",
+              "RelativeToolTip": "Collections\\09_UniqueValues\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T18:07:57.017Z",
+              "WhenOpened": "2026-04-08T13:23:07.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\08_MinMaxList\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\08_MinMaxList\\Program.cs",
+              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\08_MinMaxList\\Program.cs",
+              "RelativeToolTip": "Collections\\08_MinMaxList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:07:57.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\07_UndoStack\\Program.cs",
               "RelativeDocumentMoniker": "Collections\\07_UndoStack\\Program.cs",
@@ -47,12 +63,11 @@
               "RelativeToolTip": "Collections\\07_UndoStack\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T17:56:11.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T17:56:11.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\06_BankQueue\\Program.cs",
               "RelativeDocumentMoniker": "Collections\\06_BankQueue\\Program.cs",
@@ -60,8 +75,7 @@
               "RelativeToolTip": "Collections\\06_BankQueue\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T17:53:10.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T17:53:10.033Z"
             }
           ]
         }

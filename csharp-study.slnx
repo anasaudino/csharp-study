@@ -37,8 +37,31 @@
   </Folder>
   <Folder Name="/Platforms/" />
   <Folder Name="/Platforms/Beecrowd/">
-    <Project Path="Platforms/Beecrowd/Problem1000/Problem1000.csproj" />
-    <Project Path="Platforms/Beecrowd/Problem1001/Problem1001.csproj" />
-    <Project Path="Platforms/Beecrowd/Problem1002/Problem1002.csproj" />
+    <Project Path="Platforms/Beecrowd/1067/Beecrowd_1067.csproj" />
+    <Project Path="Platforms/Beecrowd/1071/Beecrowd_1071.csproj" />
+    <Project Path="Platforms/Beecrowd/1072/Beecrowd_1072.csproj" />
+    <Project Path="Platforms/Beecrowd/1073/Beecrowd_1073.csproj" />
+    <Project Path="Platforms/Beecrowd/1074/Beecrowd_1074.csproj" />
+    <Project Path="Platforms/Beecrowd/1075/Beecrowd_1075.csproj" />
+    <Project Path="Platforms/Beecrowd/1079/Beecrowd_1079.csproj" />
+    <Project Path="Platforms/Beecrowd/1080/Beecrowd_1080.csproj" />
+    <Project Path="Platforms/Beecrowd/1101/Beecrowd_1101.csproj" />
+    <Project Path="Platforms/Beecrowd/1116/Beecrowd_1116.csproj" />
+    <Project Path="Platforms/Beecrowd/1132/Beecrowd_1132.csproj" />
+    <Project Path="Platforms/Beecrowd/1133/Beecrowd_1133.csproj" />
+    <Project Path="Platforms/Beecrowd/1142/Beecrowd_1142.csproj" />
+    <Project Path="Platforms/Beecrowd/1143/Beecrowd_1143.csproj" />
+    <Project Path="Platforms/Beecrowd/1144/Beecrowd_1144.csproj" />
+    <Project Path="Platforms/Beecrowd/1145/Beecrowd_1145.csproj" />
+    <Project Path="Platforms/Beecrowd/1149/Beecrowd_1149.csproj" />
+    <Project Path="Platforms/Beecrowd/1150/Beecrowd_1150.csproj" />
+    <Project Path="Platforms/Beecrowd/1151/Beecrowd_1151.csproj" />
+    <Project Path="Platforms/Beecrowd/1153/Beecrowd_1153.csproj" />
+    <Project Path="Platforms/Beecrowd/1155/Beecrowd_1155.csproj" />
+    <Project Path="Platforms/Beecrowd/1156/Beecrowd_1156.csproj" />
+    <Project Path="Platforms/Beecrowd/1157/Beecrowd_1157.csproj" />
+    <Project Path="Platforms/Beecrowd/1158/Beecrowd_1158.csproj" />
+    <Project Path="Platforms/Beecrowd/1160/Beecrowd_1160.csproj" />
+    <Project Path="Platforms/Beecrowd/1165/Beecrowd_1165.csproj" />
   </Folder>
 </Solution>
