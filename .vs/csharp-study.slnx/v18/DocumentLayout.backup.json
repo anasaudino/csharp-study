@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Arquivos e Programas\\Repos\\csharp-study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E4F7943-AB1F-58AC-0FD7-431402D75D26}|Collections\\09_UniqueValues\\09_UniqueValues.csproj|d:\\arquivos e programas\\repos\\csharp-study\\collections\\09_uniquevalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E4F7943-AB1F-58AC-0FD7-431402D75D26}|Collections\\09_UniqueValues\\09_UniqueValues.csproj|solutionrelative:collections\\09_uniquevalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0EB2C90-7545-C885-BA22-96746DCC0E74}|Platforms\\Beecrowd\\1101\\Beecrowd_1101.csproj|d:\\arquivos e programas\\repos\\csharp-study\\platforms\\beecrowd\\1101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EB2C90-7545-C885-BA22-96746DCC0E74}|Platforms\\Beecrowd\\1101\\Beecrowd_1101.csproj|solutionrelative:platforms\\beecrowd\\1101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39C8C79E-D50D-EAC9-180D-9AB3937F81FB}|Collections\\08_MinMaxList\\08_MinMaxList.csproj|d:\\arquivos e programas\\repos\\csharp-study\\collections\\08_minmaxlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39C8C79E-D50D-EAC9-180D-9AB3937F81FB}|Collections\\08_MinMaxList\\08_MinMaxList.csproj|solutionrelative:collections\\08_minmaxlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46194E07-E595-7A2E-DAD5-6133CEBAC928}|Collections\\07_UndoStack\\07_UndoStack.csproj|d:\\arquivos e programas\\repos\\csharp-study\\collections\\07_undostack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46194E07-E595-7A2E-DAD5-6133CEBAC928}|Collections\\07_UndoStack\\07_UndoStack.csproj|solutionrelative:collections\\07_undostack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AF8B457-27C9-923A-8362-96D3449E6CF5}|Collections\\06_BankQueue\\06_BankQueue.csproj|d:\\arquivos e programas\\repos\\csharp-study\\collections\\06_bankqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AF8B457-27C9-923A-8362-96D3449E6CF5}|Collections\\06_BankQueue\\06_BankQueue.csproj|solutionrelative:collections\\06_bankqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B105997C-8CCE-FAA4-7D8A-AE6337194AD5}|Platforms\\Beecrowd\\1072\\Beecrowd_1072.csproj|d:\\arquivos e programas\\repos\\csharp-study\\platforms\\beecrowd\\1072\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B105997C-8CCE-FAA4-7D8A-AE6337194AD5}|Platforms\\Beecrowd\\1072\\Beecrowd_1072.csproj|solutionrelative:platforms\\beecrowd\\1072\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\09_UniqueValues\\Program.cs",
-              "RelativeDocumentMoniker": "Collections\\09_UniqueValues\\Program.cs",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\09_UniqueValues\\Program.cs",
-              "RelativeToolTip": "Collections\\09_UniqueValues\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T13:23:07.451Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\08_MinMaxList\\Program.cs",
-              "RelativeDocumentMoniker": "Collections\\08_MinMaxList\\Program.cs",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\08_MinMaxList\\Program.cs",
-              "RelativeToolTip": "Collections\\08_MinMaxList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Platforms\\Beecrowd\\1072\\Program.cs",
+              "RelativeDocumentMoniker": "Platforms\\Beecrowd\\1072\\Program.cs",
+              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Platforms\\Beecrowd\\1072\\Program.cs",
+              "RelativeToolTip": "Platforms\\Beecrowd\\1072\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T18:07:57.017Z"
+              "WhenOpened": "2026-04-08T13:54:28.934Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\07_UndoStack\\Program.cs",
-              "RelativeDocumentMoniker": "Collections\\07_UndoStack\\Program.cs",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\07_UndoStack\\Program.cs",
-              "RelativeToolTip": "Collections\\07_UndoStack\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Platforms\\Beecrowd\\1101\\Program.cs",
+              "RelativeDocumentMoniker": "Platforms\\Beecrowd\\1101\\Program.cs",
+              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Platforms\\Beecrowd\\1101\\Program.cs*",
+              "RelativeToolTip": "Platforms\\Beecrowd\\1101\\Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T17:56:11.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\06_BankQueue\\Program.cs",
-              "RelativeDocumentMoniker": "Collections\\06_BankQueue\\Program.cs",
-              "ToolTip": "D:\\Arquivos e Programas\\Repos\\csharp-study\\Collections\\06_BankQueue\\Program.cs",
-              "RelativeToolTip": "Collections\\06_BankQueue\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T17:53:10.033Z"
+              "WhenOpened": "2026-04-08T19:01:05.62Z",
+              "EditorCaption": ""
             }
           ]
         }
