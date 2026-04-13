@@ -1,10 +1,14 @@
-﻿Console.WriteLine("Digite um numero:");
+﻿Console.WriteLine("Digite o valor de A:");
 int a = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Digite um outro numero:");
+Console.WriteLine("Digite o valor de N:");
 int n = int.Parse(Console.ReadLine());
 
-for (int i = a; i < n; i++)
+int soma = 0;
+
+for (int i = 0; i < n; i++)
 {
-    Console.WriteLine(i += 1);
+    soma += a + i;
+
+    Console.WriteLine(soma);
 }
